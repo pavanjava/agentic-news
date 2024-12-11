@@ -1,0 +1,12 @@
+phidata
+openai
+sqlalchemy
+duckduckgo-search
+yfinance
+fastapi
+uvicorn
+python-dotenv
+qdrant-client
+pypdf
+ollama
+asknews
